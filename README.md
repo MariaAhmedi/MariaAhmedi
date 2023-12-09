@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @MariaAhmedi
-- 👀 I’m interested in AI/Machine Learning
-- 🌱 I’m currently learning about Github Copilot
-- 💞️ I’m looking to collaborate on Software Development Projects
-- 📫 How to reach me ...www.linkedin.com/in/mariaahmedi/
+## 👋 Hi, I’m @MariaAhmedi
+Software Developer | Passionate about crafting clean code and building innovative solutions.
+
+## Skills
+- Languages: Python, JavaScript, Java, C, C++, R
+- Web Technologies: React, Node.js
+- Tools & Software: RStudio, Pytorch, tensor-flow, Tableau, Git, JIRA, Visual Studio, Eclipse.
+- Database: MongoDB, MySQL
+
+## Projects
+- **Project 1:** [Project Name](Link) - Brief description...
+- **Project 2:** [Project Name](Link) - Brief description...
+
+## 📫 How to reach me 
+www.linkedin.com/in/mariaahmedi/
 
 <!---
 MariaAhmedi/MariaAhmedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

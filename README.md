@@ -8,7 +8,7 @@ Software Developer | Passionate about crafting clean code and building innovativ
 - Database: MongoDB, MySQL
 
 ## Projects
-- **Project 1 :** [Artificial Intelligence Project](https://github.com/MariaAhmedi/AI-Project) - Fraudulent or Legitimate: Exploring Anomaly Detection in Credit Card Transactions
+- **Project 1 :** [AI Project](https://github.com/MariaAhmedi/AI-Project) - Fraudulent or Legitimate: Exploring Anomaly Detection in Credit Card Transactions
 - **Project 2:** [Project Name](Link) - Brief description...
 
 ## 📫 How to reach me 
